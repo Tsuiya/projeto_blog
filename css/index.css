@@ -55,6 +55,52 @@ body{
   background: #f4f4f4!important;
 }
 
+
+header{
+  display: block;
+  border-bottom: 1px solid #81818181;  
+
+  
+}
+nav{
+  position: relative;
+  justify-content: space-between;
+}
+
+ul{
+  display: flex;
+  margin-top: revert;
+}
+
+li{
+  list-style: none;
+  margin: 0 10px;
+  color: #444;
+  font-weight: 600;
+}
+
+header .container{
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+
+html{
+  
+  font-family: "Lato", sans-serif;
+  box-sizing: border-box;
+}
+
+html a{
+  text-decoration: none;
+}
+
+
 .logo {
   text-align: center;
   margin: 50px 0;
@@ -161,5 +207,27 @@ body{
 
 }
 
+
+.social-medias li img{
+  width: 20px;
+
+}
+
+.logo{
+  text-align: center;
+  margin: 50px 0;
+}
+
+.corpo{
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  text-align: center;
+
+}
 
 /*# sourceMappingURL=index.css.map */
