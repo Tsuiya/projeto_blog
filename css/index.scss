@@ -1,0 +1,61 @@
+header{
+  display: block;
+  border-bottom: 1px solid #81818181;  
+
+  nav{
+    position: relative;
+    justify-content: space-between;
+  }
+  
+  ul{
+    display: flex;
+    margin-top: revert;
+  }
+
+  li{
+    list-style: none;
+    margin: 0 10px;
+    color: #444;
+    font-weight: 600;
+  }
+
+  .container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-evenly;
+  
+  }
+}
+
+.social-medias li img{
+  width: 20px;
+
+}
+
+html{
+  a{
+    text-decoration: none;
+  }
+  font-family: "Lato", sans-serif;
+  box-sizing: border-box;
+}
+
+.logo{
+  text-align: center;
+  margin: 50px 0;
+}
+
+.corpo{
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  text-align: center;
+
+}
