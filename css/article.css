@@ -1,0 +1,56 @@
+a:-webkit-any-link{color: unset;}
+
+p{
+  font-family: Lato;
+}
+
+.subtitle{
+  color: #888;
+  text-align: center;
+  font-family: Oswald;
+}
+
+article h2{
+  color: #da521e;
+  font-family: Oswald;
+
+}
+
+article p{
+  font-size: 1.5rem;
+  line-height: 2.3rem;
+}
+
+.about-author{
+  background: #fff;
+  margin: 20px 0;
+  display: flex;
+  padding: 20px;
+  border: 1px solid #eee;
+}
+
+.author-photo{
+  width: 25%;
+  border: 1px solid #fff8;
+  border-radius: 50%;
+  padding: 0 15px;
+}
+
+.about-author-content h4{
+  margin: 15px 0;
+  font-family: Oswald;
+  font-weight: 600;
+}
+
+.about-author-content h4:hover{
+  color: #da521e;
+}
+
+.about-author-content p{
+  font-size: 1.465rem;
+}
+
+.social-about a img{
+  width: 25px;
+}
+
