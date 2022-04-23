@@ -54,3 +54,37 @@ article p{
   width: 25px;
 }
 
+.comments{
+  background: #fff;
+  border: 1px solid #eee;
+  margin: 50px 0;
+  padding: 40px;
+}
+
+.head-comments{
+  margin: 20px 0;
+}
+
+.head-comments p{
+  font-family: Oswald;
+  font-size: 1.8rem;
+}
+
+
+.media-comments img{
+  margin: 0 15px;
+}
+
+.comment{
+  display: flex;
+}
+
+.comment .date p, .comment .comment-text p{
+  font-family: Lato;
+}
+
+.comments-name p{
+  font-family: Oswald;
+  font-size: 1.565rem;
+  font-weight: 600;
+}
