@@ -117,6 +117,7 @@ nav .menu li:hover{
   text-align: center;
   text-transform: uppercase;
   margin-bottom: 30px;
+  color: #444;
 
 }
 
@@ -192,5 +193,32 @@ nav .menu li:hover{
   text-align: center;
 
 }
+
+.pagination a{
+  margin: 0 5px;
+  background: #fff;
+  border: 1px solid #ccc;
+}
+
+.pagination li{
+  padding: 6px 2px;
+}
+
+.pagination #active{
+  background: #da521e;
+}
+
+.pagination #active li{
+  color: #fff;
+}
+
+.pagination a:hover{
+  background: #da521e;
+}
+
+.pagination a:hover li{
+  color: #fff;
+}
+
 
 /*# sourceMappingURL=index.css.map */
