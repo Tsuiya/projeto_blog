@@ -1,0 +1,71 @@
+footer{
+  background: #333333;
+  color: #fff;
+}
+
+.footer-contact{
+  
+}
+
+.footer-contact-row{
+  display: flex;
+  justify-content: space-between;
+  margin: 80px auto 55px;
+}
+
+.footer-widget-title p{
+  width: 100%;
+  max-width: 300px;
+}
+
+.footer-contact .adress h4{
+  font-family: Oswald;
+  text-transform: uppercase;
+}
+
+.footer-widget-title h1{
+  margin-bottom: 16px;
+}
+
+.twitter-widget h2{
+  font-family: Oswald;
+
+}
+
+.tweet img{
+  width: 7%;
+}
+
+.tweet h4{
+  font-family: Oswald;
+  font-size: 1.4rem;
+}
+
+.tweet a{
+  color: #da521e;
+}
+
+.testimonials-widget h2{
+  font-family: Oswald;
+  text-transform: uppercase;
+  font-size: 1.75rem;
+}
+
+.testimonial-text{
+  width: 100%;
+  max-width: 400px;
+}
+
+.testimonial-author{
+  display: flex;
+}
+
+.testimonial-author img{
+  border-radius: 50%;
+}
+
+.testimonial-author .author-text h4{
+  font-size: 1.3rem;
+  font-family: Oswald;
+  margin: 10px 10px;
+}
