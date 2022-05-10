@@ -20,12 +20,9 @@ footer{
   text-transform: uppercase;
 }
 
-.footer-widget-title {
-  text-transform: uppercase;
-}
-
 .footer-widget-title h1{
   margin-bottom: 16px;
+  text-transform: uppercase;
 }
 
 .footer-widget-title span{
