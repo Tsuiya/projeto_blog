@@ -3,9 +3,6 @@ footer{
   color: #fff;
 }
 
-.footer-contact{
-  
-}
 
 .footer-contact-row{
   display: flex;
@@ -23,12 +20,22 @@ footer{
   text-transform: uppercase;
 }
 
+.footer-widget-title {
+  text-transform: uppercase;
+}
+
 .footer-widget-title h1{
   margin-bottom: 16px;
 }
 
+.footer-widget-title span{
+  color: #da521e;
+}
+
 .twitter-widget h2{
   font-family: Oswald;
+  font-size: 2rem;
+  text-transform: uppercase;
 
 }
 
